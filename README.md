@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Aditya!<br><br>🎓 I am a 3rd-year Artificial Intelligence and Data Science student passionate about technology, machine learning, and software development.<br><br>💡 I enjoy learning new technologies, building innovative projects, and solving real-world problems through AI and data-driven solutions.<br><br>🚀 Currently, I am expanding my skills in:<br><br>Artificial Intelligence & Machine Learning<br>Data Science & Analytics<br>Deep Learning & Computer Vision<br><br>📚 I believe in continuous learning and enjoy developing projects that help me explore new ideas and improve my technical expertise.
+👋 Hi, I'm Athithya!<br><br>🎓 I am a 3rd-year Artificial Intelligence and Data Science student passionate about technology, machine learning, and software development.<br><br>💡 I enjoy learning new technologies, building innovative projects, and solving real-world problems through AI and data-driven solutions.<br><br>🚀 Currently, I am expanding my skills in:<br><br>Artificial Intelligence & Machine Learning<br>Data Science & Analytics<br>Deep Learning & Computer Vision<br><br>📚 I believe in continuous learning and enjoy developing projects that help me explore new ideas and improve my technical expertise.
 
 
 
